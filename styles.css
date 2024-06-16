@@ -1,0 +1,43 @@
+img {
+    width: 100%;
+    padding: 10px;
+}
+h2 {
+    text-decoration: underline;
+}
+#sy-summary {
+    display: flex;
+}
+#text-summary {
+    padding: 40px;
+}
+h1 {
+    margin-bottom: 0;
+}
+#title-author {
+    background-color: saddlebrown;
+    border-radius: 8px;
+}
+h2 {
+    margin-top: 0;
+}
+#author-p {
+    margin-top: 0;
+}
+#top-page {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 10px 0 10px;
+}
+#top-image {
+    display: block;
+    min-width: 70%;
+}
+hr {
+    width: 90%;
+    height: 5px;
+    background-color: gold;
+}
+body {
+    background-color: burlywood;
+}
